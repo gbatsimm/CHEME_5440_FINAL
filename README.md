@@ -7,7 +7,7 @@ This resource is intended only for course staff, or general reference after 5/22
 
 #### Core Contents:
 
-Note, some features of the jupyter files can be hard to read in the GitHub preview.  For best readability, download the ipynb files.  Particularly tex style equations in markdown often take a good amount of time to load in the preview.
+Note, some features of the jupyter files can be hard to read in the GitHub preview.  For best readability, download the ipynb files.  Particularly tex style equations in markdown often take a good amount of time to load in the preview.  This was most notable when multiple equations are written in a row.
 
 `5440_FINAL_Problem1.ipynb` contains the complete solution (in python 3) to Problem 1
 
