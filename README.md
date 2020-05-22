@@ -12,7 +12,7 @@ Note, some features of the jupyter files can be hard to read in the GitHub previ
 
 `5440_FINAL_Problem2.ipynb` contains the complete solution (in python 3) to Problem 2.
 
-`5440_FINAL_Problem3.ipynb` 
+`5440_FINAL_Problem3.ipynb` contains the complete solution (in python 3) to Problem 3.
 
 `5440_FINAL_Problem4.ipynb` 
 
