@@ -7,7 +7,9 @@ This resource is intended only for course staff, or general reference after 5/22
 
 #### Core Contents:
 
-`5440_FINAL_Problem1.ipynb` 
+Note, some features of the jupyter files can be hard to read in the GitHub preview.  For best readability, download the ipynb files.
+
+`5440_FINAL_Problem1.ipynb` contains the complete solution (in python 3) to Problem 1
 
 `5440_FINAL_Problem2.ipynb` 
 
@@ -19,3 +21,4 @@ This resource is intended only for course staff, or general reference after 5/22
 
 `exam.pdf` is the assignment statement distributed by course instructors.
 
+There are also several other supplemental notes referenced in problem solutions which are included in this folder.
