@@ -15,7 +15,7 @@ Note, some features of the jupyter files can be hard to read in the GitHub previ
 
 `5440_FINAL_Problem3.ipynb` contains the complete solution (in python 3) to Problem 3.
 
-`5440_FINAL_Problem4.ipynb` 
+`5440_FINAL_Problem4.ipynb` contains most of the solution (in python 3) for Problem 3.  In addition, LSQ fitting as well as a modified LSQ fitting technique were used in `problem4 LSQ and other fitting.xlsx`.
 
 #### Supplemental Materials:
 
